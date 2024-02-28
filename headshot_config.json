@@ -1,0 +1,10 @@
+{
+  {
+    "HeadshotVoteRounds": 5,
+    "HeadshotVoteDurationSeconds": 10,
+    "AdminCanForceStartHeadshot": true,
+    "AdminCanForceStopHeadshot": true,
+    "AdminFlagtoForceHsOnly": "@css/root"
+  }
+
+}
