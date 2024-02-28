@@ -2,13 +2,13 @@
 CS2 plugin that creates a vote for headshot only mode.
 
 ## Features:
-This plugin creates a vote fore haedshot only mode after X amount of rounds (by default, its set to 5).
-Admin can force start the headshot mode.
+This plugin creates a vote for haedshot only mode after X amount of rounds (by default, its set to 5). <br>
+Admin can force start the headshot mode.<br>
 Admin can force stop the headshot mode.
 
 ## Commands
-`css_hs_vote` - Starts the vote for headshot only mode.
-`css_starths` - Starts the headshot only mode (Admin command).
+`css_hs_vote` - Starts the vote for headshot only mode.<br>
+`css_starths` - Starts the headshot only mode (Admin command).<br>
 `css_stophs` - Stops the headshot only mode (Admin command).
 
 ## Configuration
